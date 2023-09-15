@@ -1,6 +1,7 @@
 #created a variable
 firstname = None
 
+
 #assign value to the variable
 firstname = "Dominic"
 

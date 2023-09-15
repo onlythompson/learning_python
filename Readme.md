@@ -31,14 +31,17 @@ Syntax : variable-name = value
 e.g name = "Joseph" #This mean create a location in memory call name and store value Joseph in that location.
 
 #### To do create the following variable
-- Create called firstname  with no value
-- Create a variable call surname with no value
-- Create a variable call  gender with a string value = "Male"
+- Create a varibale called firstname  with no value
+- Create a variable called surname with no value
+- Create a variable called  gender with a string value = "Male"
 - Assign the value 'Thompson' to the surname variable
 - Assign the value of 'Dominic' to the firsname variable.
 - Call the variable firstname and print on the console.
 - Call the variable surname and print on the console.
 - Call the variable gender and print on the console.
+
+- Change the value of firstname to your name.
+- Create a variable called  fullname and assign the firstname and surname to it.
 
 //Concept of Methods (Function, Subroutine, Procedure)
 

@@ -1,13 +1,13 @@
 # Fundamentals of Programming in Python
 
 ## The Concept of Syntax and Semantics
-Okon is a Boy
-Okon is 12 Years Old -> Information
-Deduce these Types
-Okon = String
-12 = Number
-All = String
-O = Char
+- Okon is a Boy
+- Okon is 12 Years Old -> Information
+- Deduce these Types
+- Okon = String
+- 12 = Number
+- All = String
+- O = Char
 
 
 ### Type => Data Types
@@ -27,8 +27,8 @@ Anything you imagine.
 
 ## Concept of Variables
 A variable is a temporary location in memory to store data.
-Syntax : variable-name = value
-e.g name = "Joseph" #This mean create a location in memory call name and store value Joseph in that location.
+Syntax : `variable-name = value`
+e.g `name = "Joseph"` #This mean create a location in memory call name and store value Joseph in that location.
 
 #### To do create the following variable
 - Create a varibale called firstname  with no value
@@ -43,7 +43,22 @@ e.g name = "Joseph" #This mean create a location in memory call name and store v
 - Change the value of firstname to your name.
 - Create a variable called  fullname and assign the firstname and surname to it.
 
-//Concept of Methods (Function, Subroutine, Procedure)
+### Concept of Functions (Method, Subroutine, Procedure) I
+
+Function is a wrapper around a group of statements.
+The fundamental things we do with functions are:
+- Define Function -> Creating function that does a specific task.
+    To define a function in python, we start by using the `def` keyword followed by the name of the function, a set of parenthesis and a colon.
+- Calling a Function -> Using a defined function.
+
+
+//Statement
+Different Types of Statement
+Basic Statement
+Conditional Statement.
+Looping Statement
+
+//The Concept of Functions Part II
 
 
 4 things

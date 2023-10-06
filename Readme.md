@@ -51,6 +51,29 @@ The fundamental things we do with functions are:
     To define a function in python, we start by using the `def` keyword followed by the name of the function, a set of parenthesis and a colon.
 - Calling a Function -> Using a defined function.
 
+//Operators
+Assignment: = 
+Addition: +
+Subtraction : -
+Multiplication: *
+Division: /
+Modulus : %
+Exponent: **
+Floor: //
+
+Logical Operators
+Comparisons: 
+Equal == e:g operandA == operandB
+And: &&
+Not Equal: !=
+Greater Than: >
+Less Than: <
+Greater Than or Equal To: <=
+Less Than or Equal To: <=
+English Version: is, or, and
+
+Bitwise: 
+
 
 //Statement
 Different Types of Statement
